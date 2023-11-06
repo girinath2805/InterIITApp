@@ -10,7 +10,7 @@ cd ./frontend
 npm run dev
 ```
 
-Please note that this page will only work with the native currency of the Ethereum Blockchain, Ether, and not with actual money. The page is built using Vite, React, and Tailwind CSS.
+Please note that this page will only work with the native currency of the Ethereum Blockchain, Ether, and not with actual money. The page is built using Vite + React, and Tailwind CSS.
 
 ## Functionality of the Page
 
